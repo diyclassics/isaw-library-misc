@@ -5,3 +5,5 @@
 /selenium
 pip-selfcheck.json
 .Python
+/notebooks/.ipynb_checkpoints/
+/notebooks/geckodriver.log
