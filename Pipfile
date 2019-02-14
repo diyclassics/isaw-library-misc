@@ -5,9 +5,9 @@ name = "pypi"
 
 [packages]
 selenium = "*"
-requests = "*"
 "beautifulsoup4" = "*"
 jupyter = "*"
+requests = "*"
 
 [dev-packages]
 
