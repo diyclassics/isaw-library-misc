@@ -8,6 +8,7 @@ selenium = "*"
 "beautifulsoup4" = "*"
 jupyter = "*"
 requests = "*"
+isbnlib = "*"
 
 [dev-packages]
 
