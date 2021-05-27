@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 selenium = "*"
 "beautifulsoup4" = "*"
-jupyter = "*"
 requests = "*"
 isbnlib = "*"
 
@@ -14,4 +13,4 @@ isbnlib = "*"
 jupyter = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"
